@@ -21,6 +21,6 @@ case $choice in
     ;;
     6) cd /mnt/d/codes/C ; code .
     ;;
-    7) cd /mnt/c/Program Files/Google/Chrome/Application/chrome.exe
+    7) /mnt/c/Program Files/Google/Chrome/Application/chrome.exe
     ;;
 esac
