@@ -5,6 +5,7 @@ echo "4. Python"
 echo "5. CPP"
 echo "6. C"
 echo "7. Chrome"
+echo "8. Sublime Text 3"
 
 read choice
 
@@ -22,5 +23,7 @@ case $choice in
     6) cd /mnt/d/codes/C ; code .
     ;;
     7) /mnt/c/'Program Files'/Google/Chrome/Application/chrome.exe
+    ;;
+    8) mnt/c/'Sublime Text 3'/subl.exe
     ;;
 esac
