@@ -24,6 +24,6 @@ case $choice in
     ;;
     7) /mnt/c/'Program Files'/Google/Chrome/Application/chrome.exe
     ;;
-    8) mnt/c/'Sublime Text 3'/subl.exe
+    8) /mnt/c/'Sublime Text 3'/subl.exe
     ;;
 esac
